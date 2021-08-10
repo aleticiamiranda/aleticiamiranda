@@ -2,7 +2,6 @@
 
 - 🔭 Estudante de Sistemas para a Internet (3/5)
 - 🖥️ Back-End developer em formação
-- 🌱 Estudando Java e Spring Boot
 - ⚡ Code like a girl
 
 <div>
