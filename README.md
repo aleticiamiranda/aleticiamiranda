@@ -1,6 +1,6 @@
 ### Olá, sou a Letícia Miranda!
 
-- 🔭 Estudante de Sistemas para a Internet (3/5)
+- 🔭 Estudante de Sistemas para a Internet
 - 🖥️ Back-End developer em formação
 - ⚡ Code like a girl
 
